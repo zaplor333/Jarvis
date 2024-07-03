@@ -1,0 +1,11 @@
+{
+"open":
+    {
+        "youtube":"open_youtube",
+        "notepad":"open_youtube",
+        "vscode":"open_vscode",
+        "cmd":"open_cmd"},
+"add":
+    {
+        "previous command":"add_previous_command"}
+}
